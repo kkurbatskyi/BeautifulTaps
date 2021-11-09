@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Beautiful Taps</string>
+    <string name="welcome_text">Click anywhere to start</string>
+    <string name="topTitle">Beautiful Taps</string>
+</resources>
